@@ -1,0 +1,53 @@
+﻿date,amount,category,note,type
+2026-04-01,5000000,Thu nhập,Nhận lương tháng 4,Thu nhập
+2026-04-01,1500000,Tiền nhà,Đóng tiền phòng tháng 4,Chi tiêu
+2026-04-02,30000,Ăn uống,Ăn sáng xôi xéo,Chi tiêu
+2026-04-02,55000,Ăn uống,Ăn trưa cơm văn phòng,Chi tiêu
+2026-04-02,25000,Ăn uống,Ăn kem giải nhiệt,Chi tiêu
+2026-04-03,45000,Di chuyển,Đổ xăng xe máy,Chi tiêu
+2026-04-03,60000,Ăn uống,Lẩu mini với bạn,Chi tiêu
+2026-04-04,200000,Học tập,Mua khóa học Python cơ bản,Chi tiêu
+2026-04-04,35000,Ăn uống,Cafe học bài,Chi tiêu
+2026-04-05,100000,Di chuyển,Nạp tiền vé xe buýt tháng,Chi tiêu
+2026-04-06,500000,Thu nhập,Làm thêm Freelance edit video,Thu nhập
+2026-04-06,45000,Ăn uống,Bún chả chiều,Chi tiêu
+2026-04-07,150000,Mua sắm,Mua áo thun mới,Chi tiêu
+2026-04-08,30000,Ăn uống,Bánh mì và sữa,Chi tiêu
+2026-04-09,75000,Giải trí,Xem phim rạp,Chi tiêu
+2026-04-10,200000,Học tập,Đăng ký thi tiếng Anh,Chi tiêu
+2026-04-10,40000,Ăn uống,Trà sữa trân châu,Chi tiêu
+2026-04-11,50000,Di chuyển,Grab đi siêu thị,Chi tiêu
+2026-04-12,300000,Ăn uống,Đi ăn cưới bạn,Chi tiêu
+2026-04-13,25000,Ăn uống,Bánh bao sáng,Chi tiêu
+2026-04-14,60000,Ăn uống,Cơm tấm đêm,Chi tiêu
+2026-04-15,1000000,Thu nhập,Bố mẹ gửi tiền sinh hoạt,Thu nhập
+2026-04-15,120000,Tiền điện,Thanh toán hóa đơn điện,Chi tiêu
+2026-04-16,85000,Tiền nước,Thanh toán hóa đơn nước,Chi tiêu
+2026-04-17,45000,Ăn uống,Ăn vặt cổng trường,Chi tiêu
+2026-04-18,50000,Di chuyển,Thay dầu xe máy,Chi tiêu
+2026-04-19,35000,Ăn uống,Nước mía và hướng dương,Chi tiêu
+2026-04-20,150000,Học tập,Mua sách chuyên ngành IT,Chi tiêu
+2026-04-21,50000,Sức khỏe,Mua thuốc cảm cúm,Chi tiêu
+2026-04-22,30000,Ăn uống,Xôi ngô sáng,Chi tiêu
+2026-04-23,45000,Ăn uống,Phở bò sốt vang,Chi tiêu
+2026-04-24,100000,Giải trí,Nạp thẻ game,Chi tiêu
+2026-04-25,60000,Ăn uống,Pizza khuyến mãi,Chi tiêu
+2026-04-26,20000,Di chuyển,Gửi xe cả ngày,Chi tiêu
+2026-04-27,50000,Ăn uống,Sữa chua trân châu,Chi tiêu
+2026-04-28,25000,Ăn uống,Ăn kem 10k,Chi tiêu
+2026-04-01,300000,Thu nhập,Thưởng chuyên cần,Thu nhập
+2026-04-05,50000,Mua sắm,Văn phòng phẩm,Chi tiêu
+2026-04-12,120000,Ăn uống,Buffet rau sạch,Chi tiêu
+2026-04-18,45000,Ăn uống,Bánh giò và trà đá,Chi tiêu
+2026-04-22,150000,Sức khỏe,Mua thực phẩm chức năng,Chi tiêu
+2026-04-25,200000,Thu nhập,Bán đồ cũ online,Thu nhập
+2026-04-03,35000,Ăn uống,Bánh cuốn nóng,Chi tiêu
+2026-04-08,55000,Di chuyển,Grab đi học muộn,Chi tiêu
+2026-04-14,25000,Ăn uống,Kem sầu riêng,Chi tiêu
+2026-04-19,100000,Học tập,In tài liệu đồ án,Chi tiêu
+2026-04-24,30000,Ăn uống,Bún riêu cua,Chi tiêu
+2026-04-26,45000,Ăn uống,Gà rán Jollibee,Chi tiêu
+2026-04-27,20000,Ăn uống,Trà đá vỉa hè,Chi tiêu
+2026-04-28,35000,Sức khỏe,Khẩu trang y tế,Chi tiêu
+
+2026-04-29,25000,Bạn bè & Xã hội,Cho bạn vay tiền,Chi tiêu
